@@ -1,6 +1,6 @@
 import java.util.*;
 
-   public class Main {
+   public class RotateANumber {
    
        public static void main(String[] args) {
          int number,rotateby,newnumber;
